@@ -1,4 +1,1 @@
-=
-This is hotfix copy1:wq
-
->>>>>>> hotfix
+This is gitub copy
