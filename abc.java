@@ -1,4 +1,1 @@
-=
-This is hotfix copy1:wq
-
->>>>>>> hotfix
+Master Local Copy
