@@ -1,2 +1,4 @@
-First code
-This is the master copy
+=
+This is hotfix copy1:wq
+
+>>>>>>> hotfix
